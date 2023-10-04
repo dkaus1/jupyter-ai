@@ -1,3 +1,10 @@
+# Problem Statment
+ - Add a capability in left chat panel to display custom language Model and takes a token as optional 
+ - Once saved, any message sent via chat should trigger a GET/POST API to defined azure function.. for now plug dummy api
+ - Response should be displayed in chat panel as existing flow.
+
+
+
 # Jupyter AI
 
 Jupyter AI connects generative AI with Jupyter notebooks. Jupyter AI provides a user-friendly
